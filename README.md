@@ -1,4 +1,7 @@
 # AI3-Project - Amigo 
+
+![](title.PNG)
+
 DialoGPT-based Chatbot that listens to you and your emotion. 
 
 ### Problem Statement
