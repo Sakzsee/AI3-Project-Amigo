@@ -17,4 +17,4 @@ We have built a chatbot that takes in the input of audio, accordingly responds b
 The models/algorithms we used included transfer learning of VGG16 for emotion detection, DialoGPT2 for chatbot responses and the neutralizing & equalizing algorithm for debiasing. We have also developed along the way an app that visually shows the embeddings in latent space.
 
 A look at our streamlit app - 
-![]app.gif
+![](app.gif)
