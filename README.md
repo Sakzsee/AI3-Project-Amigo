@@ -18,3 +18,11 @@ The models/algorithms we used included transfer learning of VGG16 for emotion de
 
 A look at our streamlit app - 
 ![](app.gif)
+
+### References & Credits
++ https://github.com/dkajtoch/glove_streamlit
++ https://github.com/karanbhatia5757/Debiasing-Word-Embeddings-For-Gender-Equality/blob/master/Debiasing%20Word%20Embeddings.ipynb
++ https://arxiv.org/abs/1607.06520
++ https://huggingface.co/transformers/model_doc/dialogpt.html
+
+
