@@ -1,5 +1,5 @@
-# AI3-Project
-Amigo: DialoGPT-based Chatbot that listens to you and your emotion. 
+# AI3-Project - Amigo 
+DialoGPT-based Chatbot that listens to you and your emotion. 
 
 ### Problem Statement
 + Most chat-bots that we have seen so far extract emotion from the text. Missing out on the tone in which the statement is put across. To tackle this, we have developed a chatbot that responds to the most important aspect of communication, ie. the tone.
