@@ -2,6 +2,8 @@
 
 ![](title.PNG)
 
+Link to the Recording: https://drive.google.com/drive/folders/1w2Vmk60USbBZaFDEZrwnmoZnUOqGrhRm?usp=sharing
+
 DialoGPT-based Chatbot that listens to you and your emotion. 
 
 ### Problem Statement
